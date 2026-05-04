@@ -10,7 +10,7 @@ The target area was tuned down to +-5 and this only picked up the lanyard and ju
 
 ![alt text](image-2.png)
 
-After using pillow to generate a bounding box, it's pretty cool to see the lanyard being detected in real time. Despite the lanyard having sections of blue, it was suprising how its able to still detect the full lanyard. 
+After using pillow to generate a bounding box, it's pretty cool to see the lanyard being detected in real time. Despite the lanyard having sections of blue, it was suprising how its able to still detect the full lanyard. It works very well and its very simple as well. All of this was run locally on my laptop.
 
 ![alt text](image-3.png)
 ![alt text](image-4.png)
